@@ -9,15 +9,25 @@
         <module name="api" />
         <module name="common" />
         <module name="entity" />
+        <module name="scala" />
+        <module name="scalaprogram" />
         <module name="service" />
+        <module name="spark" />
+        <module name="spark-streaming" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api" target="1.8" />
-      <module name="common" target="1.5" />
+      <module name="common" target="1.8" />
       <module name="entity" target="1.8" />
       <module name="modelproject" target="1.8" />
+      <module name="scala" target="1.5" />
+      <module name="scala-program" target="1.5" />
+      <module name="scalaprogram" target="1.8" />
       <module name="service" target="1.8" />
+      <module name="spark" target="1.8" />
+      <module name="spark-streaming" target="1.8" />
+      <module name="sparkstreaming" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

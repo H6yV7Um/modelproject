@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-catalyst_2.11:2.1-101-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1-101-SNAPSHOT/spark-catalyst_2.11-2.1-101-20170424.093514-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1-101-SNAPSHOT/spark-catalyst_2.11-2.1-101-20170424.093514-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1-101-SNAPSHOT/spark-catalyst_2.11-2.1-101-20170424.093514-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
