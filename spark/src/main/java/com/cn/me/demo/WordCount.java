@@ -33,7 +33,8 @@ public class WordCount {
 		}
 		SparkConf conf = new SparkConf().setAppName("JavaWordCount")
 				.setMaster("local") //local
-//				.setMaster("spark://xg-spark-master-1.elenet.me:8088")
+//				.setMaster("spark://xg-spark-master-1.elenet.me:7077")
+//				.setMaster("spark://abcdeMacBook-Pro.local:7077")
 //				.setMaster("spark://10.104.111.35:8088")
 				;
 		JavaSparkContext sc = new JavaSparkContext(conf);
