@@ -12,6 +12,7 @@
         <module>entity</module>
         <module>sparkstreaming</module>
         <module>machinelearning</module>
+        <module>hadoop</module>
     </modules>
     <name>model-project</name>
     <url>http://maven.apache.org</url>

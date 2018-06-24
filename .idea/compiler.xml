@@ -9,6 +9,7 @@
         <module name="api" />
         <module name="common" />
         <module name="entity" />
+        <module name="hadoop" />
         <module name="scala" />
         <module name="scalaprogram" />
         <module name="service" />
@@ -20,7 +21,7 @@
       <module name="api" target="1.8" />
       <module name="common" target="1.8" />
       <module name="entity" target="1.8" />
-      <module name="machinelearning" target="1.8" />
+      <module name="hadoop" target="1.8" />
       <module name="modelproject" target="1.8" />
       <module name="scala" target="1.5" />
       <module name="scala-program" target="1.5" />
