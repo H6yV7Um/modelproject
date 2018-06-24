@@ -16,3 +16,7 @@ https://www.cnblogs.com/micrari/p/7067968.html
 https://www.cnblogs.com/liuwei6/p/6706087.html
 https://blog.csdn.net/fjssharpsword/article/details/70271671
 hive
+
+hive进阶
+https://www.cnblogs.com/liqiu/p/5687310.html
+https://www.jianshu.com/p/037e91da5cf0
