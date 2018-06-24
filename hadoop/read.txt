@@ -1,0 +1,18 @@
+https://blog.csdn.net/yechaodechuntian/article/details/44312343
+http://rockyfeng.me/hadoop_native_library_mac.html
+https://blog.csdn.net/liuhuoxingkong/article/details/72632937
+https://www.cnblogs.com/bigdataZJ/p/hellospark.html
+https://www.cnblogs.com/landed/p/6831758.html
+
+
+https://www.cnblogs.com/pengyingzhi/p/5361008.html
+
+如果你的机子没有配置ssh的话，在命令终端输入ssh localhost是需要输入你的电脑登录密码的。配置好ssh后，就无需输入密码了。
+第一步就是在终端执行ssh-keygen -t rsa -P ''，之后一路enter键，当然如果你之前已经执行过这样的语句，那过程中会提示是否要覆盖原有的key，输入y即可。
+第二步执行语句cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys用于授权你的公钥到本地可以无需密码实现登录。
+理论上这时候，你在终端输入ssh lcoalhost就能够免密登录了。
+
+https://www.cnblogs.com/micrari/p/7067968.html
+https://www.cnblogs.com/liuwei6/p/6706087.html
+https://blog.csdn.net/fjssharpsword/article/details/70271671
+hive
