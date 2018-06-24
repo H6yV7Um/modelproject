@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.apache.spark:spark-hive_2.11:2.1-101-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-20170424.094319-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-20170424.094319-1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-SNAPSHOT-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-20170424.094319-1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.1-101-SNAPSHOT/spark-hive_2.11-2.1-101-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
