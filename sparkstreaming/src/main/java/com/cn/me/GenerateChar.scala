@@ -13,7 +13,7 @@ import java.net.ServerSocket
   */
 object GenerateChar {
   def main(args: Array[String]) {
-    val listener = new ServerSocket(9999)
+    val listener = new ServerSocket(9998)
     while(true){
       val socket = listener.accept()
       new Thread(){
