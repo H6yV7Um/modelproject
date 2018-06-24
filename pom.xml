@@ -11,7 +11,7 @@
         <module>api</module>
         <module>entity</module>
         <module>sparkstreaming</module>
-        <module>machinelearning</module>
+        <module>machine-learning</module>
         <module>hadoop</module>
     </modules>
     <name>model-project</name>
